@@ -101,10 +101,13 @@ figure {
   float: right;
   width: 300px;
   overflow: hidden;
-  font-style: italic;
-  font-size: 1.5rem;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
 }
 
 blockquote {
